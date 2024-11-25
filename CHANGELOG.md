@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.5.0](https://www.github.com/mbhall88/bioconda-utils/compare/v3.4.1...v3.5.0) (2024-11-25)
+
+
+### Features
+
+* add rust to should_use_compilers lint ([08b6c5d](https://www.github.com/mbhall88/bioconda-utils/commit/08b6c5df289246a764fd4acd45a1f36b8a215ed5))
+
+
+### Bug Fixes
+
+* success check does not consider pkg_dir [#836](https://www.github.com/mbhall88/bioconda-utils/issues/836) ([#838](https://www.github.com/mbhall88/bioconda-utils/issues/838)) ([6240d31](https://www.github.com/mbhall88/bioconda-utils/commit/6240d31e706b91b4b217ab10305fb84aabd8a147))
+
 ### [3.4.1](https://www.github.com/bioconda/bioconda-utils/compare/v3.4.0...v3.4.1) (2024-10-28)
 
 
